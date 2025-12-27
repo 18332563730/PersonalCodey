@@ -1,0 +1,12 @@
+性能优化：
+CPU耗时抓帧，辅助工具，Unity Profiler，Frame Debugger
+运行时内存抓帧工具：Memory Profiler
+硬件调试工具：付费RenderDoc，UWA第三方，SnapDragon Profiler高通，Shader渲染抓帧 IntelGPA+夜神模拟器抓帧王者荣耀
+GPU性能优化，GPU Clocks与GPU Bandwidth，判断卡顿的依据：每帧GPU Clocks*FPS > GPU最大频率*80%
+优化策略：低端机器关闭Bloom效果，采用shader LOD分级策略，优化GPU计算。
+
+
+
+
+
+
